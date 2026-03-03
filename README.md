@@ -13,7 +13,7 @@ Sou profissional com experiência em suporte técnico e lógica de resolução d
 
 Ainda estou estudando e praticando, mas posso mostrar que sei:
 - Programação em Java
-- Consultas e modelagem com SQ
+- Consultas e modelagem com SQL
 - Conceitos de lógica, dados e sistemas
 
 ## Contato
